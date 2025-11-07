@@ -8,8 +8,6 @@
 
 ## 🚀 About Me
 
-🎓 BE in Information Science and Engineering from Sri Siddhartha Institute of Technology, Tumakuru.
-
 📊 Passionate Data Analyst skilled in Power BI, SQL, Python, Tableau, and Excel.
 
 🧠 Experienced in data cleaning, visualization, and dashboard creation for business insights.
